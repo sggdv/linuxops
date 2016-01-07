@@ -1,0 +1,13 @@
+{
+  "name": "ops",
+  "version": "0.0.0",
+  "authors": [
+    "Kim <331599158@qq.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7"
+  }
+}
