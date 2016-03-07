@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "starting perm777.sh"
+
 WEB_FILE=../../public/templates/perm777.html
 rm -f $WEB_FILE
 

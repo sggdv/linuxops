@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "starting df.sh"
+
 WEB_FILE=../../public/templates/df.html
 rm -f $WEB_FILE
 

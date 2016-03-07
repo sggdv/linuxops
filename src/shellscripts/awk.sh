@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "starting awk.sh"
+
 WEB_FILE=../../public/templates/awk.html
 rm -f $WEB_FILE
 

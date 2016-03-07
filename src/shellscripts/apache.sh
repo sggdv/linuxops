@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "starting apache.sh"
+
 WEB_FILE=../../public/templates/apache.html
 rm -f $WEB_FILE
 
